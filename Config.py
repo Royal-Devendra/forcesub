@@ -8,7 +8,7 @@ class Config():
     APP_ID = os.environ.get("1740969", 6)
     API_HASH = os.environ.get("6b35a0c554a76cb2ad6a47f43eda4674", None)
     SUDO_USERS = list(set(int(x) for x in os.environ.get("1096804830").split()))
-    SUDO_USERS.append(939425014)
+    SUDO_USERS.append(1096804830)
     SUDO_USERS = list(set(SUDO_USERS))
   else:
     BOT_TOKEN = ""
