@@ -3,7 +3,7 @@
 - Find it on Telegram as [Promoter](https://t.me/TheForceSubBot)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Royal-Devendra/forcesub)
+[![Hi](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Royal-Devendra/forcesub)
 
 ## Todo
 - [ ] Add multiple channels support
