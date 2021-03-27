@@ -35,4 +35,4 @@ class Messages():
         "**Powered by @DcCreations**"
       ]
 
-      START_MSG = "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\n\n 📣Join [Channel]("https://t.me/iGroupZoid")\n 💬Join [Support Group]("https://t.me/TheGroupZoid")\n📢 Also Join [New Channel]("https://t.me/Dccreations")\nLearn more at /help__"
+      START_MSG = [ "**Hey [{}](tg://user?id={})**\n__I can force members to join a specific channel before writing messages in the group.\n\n 📣Join [Channel]("https://t.me/iGroupZoid")\n 💬Join [Support Group]("https://t.me/TheGroupZoid")\n📢 Also Join [New Channel]("https://t.me/Dccreations")\nLearn more at /help__"]
