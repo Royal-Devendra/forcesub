@@ -44,8 +44,9 @@ def map(pos):
     elif(pos==len(tr.HELP_MSG)-1):
         url = "https://t.me/GroupZoidSupportBot"
         button = [
-            [InlineKeyboardButton(text = 'Support Chat', url="https://t.me/TheGroupZoid")],
-            [InlineKeyboardButton(text = 'Channel', url="https://t.me/iGroupZoid")],
+            [InlineKeyboardButton(text = '💬Support Chat', url="https://t.me/TheGroupZoid")],
+            [InlineKeyboardButton(text = '📣Channel', url="https://t.me/iGroupZoid")],
+            [InlineKeyboardButton(text = '📢Also Join', url="https://t.me/DcCreations")],
             [InlineKeyboardButton(text = '<--', callback_data = f"help+{pos-1}")]
         ]
     else:
