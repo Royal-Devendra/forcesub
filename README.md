@@ -2,7 +2,7 @@
 **A Telegram Bot to force users to join a specific channel before sending messages in a group.**
 - Find it on Telegram as [Promoter](https://t.me/TheForceSubBot)
 
-##Deploy
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Royal-Devendra/forcesub)
 
 ## Todo
@@ -12,6 +12,7 @@
 - [ ] LOGGER support.
 
 ## Deploy
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Royal-Devendra/forcesub)
 
 ### Installation
 - Clone this repo
